@@ -34,7 +34,7 @@ namespace Quest_For_The_Integrals
         }
         static void BatysPrograms()
         {
-           for (int i = 0; i < 10; ++i)
+           for (int i = 0; i < 6; ++i)
            {
               Console.WriteLine();
               Console.WriteLine();
@@ -45,8 +45,9 @@ namespace Quest_For_The_Integrals
               Console.Write(" Baty's Programs present ");
               Console.ForegroundColor = ConsoleColor.Green;
               Console.Write( "\\");
-              Console.Beep(50, 25);
-              Console.Beep(100, 25);
+              //Beeper.Beep(50, 25);
+              //Beeper.Beep(100, 25);
+              Beeper.Beep(100, 50);
               
               Console.Clear();
               Console.WriteLine();
@@ -58,9 +59,10 @@ namespace Quest_For_The_Integrals
               Console.Write(" Baty's Programs present ");
               Console.ForegroundColor = ConsoleColor.Cyan;
               Console.Write("-");
-              Console.Beep(200, 25);
-              Console.Beep(400, 25);
-              
+              //Beeper.Beep(200, 25);
+              //Beeper.Beep(400, 25);
+              Beeper.Beep(400, 50);
+
               Console.Clear();
               Console.WriteLine();
               Console.WriteLine();
@@ -71,8 +73,9 @@ namespace Quest_For_The_Integrals
               Console.Write(" Baty's Programs present ");
               Console.ForegroundColor = ConsoleColor.Magenta;
               Console.Write("/");
-              Console.Beep(400, 25);
-              Console.Beep(200, 25);
+              //Beeper.Beep(400, 25);
+              //Beeper.Beep(200, 25);
+              Beeper.Beep(200, 50);
 
               Console.Clear();
               Console.WriteLine();
@@ -84,8 +87,9 @@ namespace Quest_For_The_Integrals
               Console.Write(" Baty's Programs present ");
               Console.ForegroundColor = ConsoleColor.Yellow;
               Console.Write("|");
-              Console.Beep(100, 25);
-              Console.Beep(50, 25);
+              //Beeper.Beep(100, 25);
+              //Beeper.Beep(50, 25);
+              Beeper.Beep(50, 50);
               Console.Clear();
 
 

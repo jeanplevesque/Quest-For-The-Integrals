@@ -1,98 +1,103 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <!--<PublishAot>true</PublishAot>-->
-    <InvariantGlobalization>true</InvariantGlobalization>
-  </PropertyGroup>
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<!--<PublishAot>true</PublishAot>-->
+		<InvariantGlobalization>true</InvariantGlobalization>
+		<RootNamespace>Quest_For_The_Integrals</RootNamespace>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="FichierTexte.cs" />
-  </ItemGroup>
+	<ItemGroup>
+		<Compile Remove="FichierTexte.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <None Remove="Chevalier.txt" />
-    <None Remove="DidacticielCombat.txt" />
-    <None Remove="Démoniaque.txt" />
-    <None Remove="FinDidacticiel.txt" />
-    <None Remove="GameOver.txt" />
-    <None Remove="Groupes et Armée Didacticiel.txt" />
-    <None Remove="Image.txt" />
-    <None Remove="Logo.txt" />
-    <None Remove="Logo2.txt" />
-    <None Remove="LogoOriginal.txt" />
-    <None Remove="MenuDeJeu.txt" />
-    <None Remove="MenuDeJeuDidacticiel.txt" />
-    <None Remove="MenuDidacticiel.txt" />
-    <None Remove="Nécromancien.txt" />
-    <None Remove="Sauvegarde.txt" />
-    <None Remove="Settings.txt" />
-    <None Remove="Terrain.txt" />
-    <None Remove="Terrain2.txt" />
-    <None Remove="Être de la Forêt.txt" />
-  </ItemGroup>
+	<ItemGroup>
+		<None Remove="Chevalier.txt" />
+		<None Remove="DidacticielCombat.txt" />
+		<None Remove="Démoniaque.txt" />
+		<None Remove="FinDidacticiel.txt" />
+		<None Remove="GameOver.txt" />
+		<None Remove="Groupes et Armée Didacticiel.txt" />
+		<None Remove="Image.txt" />
+		<None Remove="Logo.txt" />
+		<None Remove="Logo2.txt" />
+		<None Remove="LogoOriginal.txt" />
+		<None Remove="MenuDeJeu.txt" />
+		<None Remove="MenuDeJeuDidacticiel.txt" />
+		<None Remove="MenuDidacticiel.txt" />
+		<None Remove="Nécromancien.txt" />
+		<None Remove="Sauvegarde.txt" />
+		<None Remove="Settings.txt" />
+		<None Remove="Terrain.txt" />
+		<None Remove="Terrain2.txt" />
+		<None Remove="Être de la Forêt.txt" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <Content Include="Chevalier.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="DidacticielCombat.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Démoniaque.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="FinDidacticiel.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="GameOver.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Groupes et Armée Didacticiel.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Image.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Logo.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Logo2.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="LogoOriginal.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="MenuDeJeu.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="MenuDeJeuDidacticiel.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="MenuDidacticiel.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Nécromancien.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Sauvegarde.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Settings.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Terrain.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Terrain2.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Être de la Forêt.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
+	<ItemGroup>
+		<Content Include="Chevalier.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="DidacticielCombat.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Démoniaque.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="FinDidacticiel.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="GameOver.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Groupes et Armée Didacticiel.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Image.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Logo.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Logo2.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="LogoOriginal.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="MenuDeJeu.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="MenuDeJeuDidacticiel.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="MenuDidacticiel.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Nécromancien.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Sauvegarde.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Settings.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Terrain.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Terrain2.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Être de la Forêt.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Windows.Extensions" Version="8.0.0" />
+	</ItemGroup>
 
 </Project>

@@ -95,7 +95,7 @@ namespace Quest_For_The_Integrals
          Console.ForegroundColor = ConsoleColor.Gray;
          Console.Title = "   Quest For The Integrals";
          Console.WindowHeight = 58;
-         Console.WindowWidth = 60;
+         Console.WindowWidth = 110;
          StreamReader lecteur = new StreamReader("Settings.txt");
          lecteur.ReadLine();
          if (lecteur.ReadLine() == "O")
@@ -2717,7 +2717,7 @@ namespace Quest_For_The_Integrals
          while (!Ditact.EOF)
          {
             Console.WriteLine(Ditact.LireChaîne());
-            Console.Beep(37, 20);
+            Beeper.Beep(37, 20);
          }
          Console.WriteLine();
          Console.WriteLine("     Appuyer sur une touche pour continuer.");
