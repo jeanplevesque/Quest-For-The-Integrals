@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace Quest_For_The_Integrals
 {
+	/// <summary>
+	/// This class was not in the original code.
+	/// It was introduced to improve the sound quality.
+	/// </summary>
 	public static class Beeper
 	{
 		static int _period = 0;
