@@ -1,0 +1,51 @@
+                                              ##                                                       
+                                           ########          ######                                      
+      ######                   ####     ##    ##            ##                                           
+     #      ####         #    ##   #    #     ##            #                                       
+    #           #        ##   #   ##      #    #            #####  ######    #  ####               
+   #             #  #     ##  #####       ##   #            #      #     #   ###                    
+   #              #  ##    #   ########  ###                ##     #######   ##                     
+   #              #   ###  #                                                                        
+    #     #     ##      ####                                                  #     #               
+    #      ### #                                                            ####### #           ### 
+     ##       ######                                                      ##  #     #  ####    #   #
+       #######                                                                #      ##   ##   #####
+                                                                              #       #    #    #      
+                                                                              #       #    #    ####  
+                                                                                                          
+                           #######                               #       ###                              
+                              #         #                        #      #   #                             
+                              #         #                  ####  #      #                                 
+                              #       ######                  #  #      #                                 
+                              #    #     #  ####      # ## ####  #      #                                 
+                              #    ####  #  #  # #### ##   #  #  #      #                                 
+                              #    #  #  #  #### #  # #    ##### #      #                                 
+                           ####### #  #  #  #    #### #          #      #                                 
+                                            ###     #               #   #                                 
+                                                 ####                ###                                  
+                                                                                                          
+                                            
+					
+ 	     		   		    Menu Principal
+
+
+
+
+
+		     Appuyez  sur  la  touche    D    pour  commencer  le Didacticiel. 
+
+
+
+		     Appuyez  sur  la  touche    J    pour  commencer  une nouvelle partie Solo.
+
+
+
+		     Appuyez  sur  la  touche    M    pour  commencer une nouvelle partie Multijoueur.
+
+		     
+
+		     Appuyez  sur  la  touche    S    pour  charger la  derniere  partie  Sauvegardee.
+		     
+		     
+		     
+		     Appuyez  sur  la  touche    O    pour  acceder  aux  Options.

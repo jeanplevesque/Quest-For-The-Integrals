@@ -1,0 +1,29 @@
+
+
+	Bienvenue dans le Didacticiel de Quest For The Integrals!
+
+  
+
+  Quest For The Integrals est un jeu de strategie tour-a-tour du genre d'Heroes of Might and Magic.  
+
+  La premiere chose que vous voudrez faire, c'est choisir votre race.
+  Il existe 2 types de races.
+
+
+  - Les Humains: Les humains obtiennent 25% plus d'experience pendant les combats.
+
+  - Les Creatures: Les creatures coutent 15% moins cher.
+
+
+  La deuxieme chose que vous voudrez faire, c'est choisir votre alignement.
+  Il existe 2 types d'alignements.
+
+  
+  - Les Bons: Les bons possedent un bonus d'attaque. Ils font 25% plus de degats a l'attaque
+
+  - Les Mauvais: Les mauvais recoltent 25% plus d'or pendant les combats.
+
+
+  Veuillez choisir votre alignement et votre race. Pour ce faire, appuyer sur H (Humain) ou C (Creature)
+  suivi de la touche Entrer. Ensuite, appuyer sur B (Bon) ou M (Mauvais).
+		

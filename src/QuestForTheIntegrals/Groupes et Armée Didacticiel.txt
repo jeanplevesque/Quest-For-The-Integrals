@@ -1,0 +1,32 @@
+
+
+	                            Quest For The Integrals
+
+  
+
+  Maintenant, vous voulez creer votre armee! Une armee est constituee de 4 differents types 
+  d'unites.
+
+  
+  - Les unites d'Infantrie: Les unites d'infantrie sont les unites de base. Elles sont peu 
+			couteuses et peu puissantes si elles sont en petit nombre, mais possedent 
+			un bonus contre la cavalrie.
+
+  - Les unites de Cavalrie: Les unites de cavalrie sont tres pratiques contre les archers, 
+			mais peuvent rapidement se faire battre par un groupe d'unites d'infantrie.
+
+  - Les unites Archers: Rien de mieu contre l'infantrie. Les unites archers ont aussi un mince 
+			bonus contre les unites volantes mais sont tres vulnerables face a la cavalrie.
+
+  - Les unites Volantes: Ce sont les unites les plus puissantes du jeu mais aussi les plus 
+			couteuses. 
+
+
+  Chaque type d'unite forme un groupe. Durant un combat, chaque groupe effectue une manoeuvre 
+  par tour. Au debut du jeu, vos 4 groupes sont vides. Chaque joueur dispose de 500 pièces 
+  d'or pour acheter des  unites. Vous devez gagner des combats pour obtenir plus d'or pour 
+  ainsi avoir plus de troupes.
+
+  Vous devez maintenant remplir vos groupes!
+ 
+   

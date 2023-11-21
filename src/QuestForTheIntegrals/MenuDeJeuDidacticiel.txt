@@ -1,0 +1,15 @@
+
+
+	Quest For The Integrals
+
+
+	Voici votre Menu de jeu. C'est d'ici que vous decidez si vous voulez apporter 
+	des ameliorations a vos troupes ou si vous voulez en achetez. Si vous n'avez 
+	rien a modifier, vous etes pres pour votre premier combat!
+
+	-Ameliorations: Vous pouvez utiliser votre experience pour augmenter les capacites 
+			de vos unites et pour obtenir certains bonus propres aux differentes 
+			equipes.
+
+	-Options: Si vous n'aimez pas votre couleur, vous pouvez la changer en ecrivant 
+			"Options" dans le menu de jeu.

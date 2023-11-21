@@ -1,0 +1,22 @@
+	
+			
+					Quest For The Integrals
+
+
+
+	Lors des combats, chaque groupe attaque a tour de role. Les deux groupe volants 
+	sont les premiers a frapper. Ensuite suivent l'infantrie, la cavalrie et les 
+	archers. Vous n'avez donc pas a choisir quel groupe devra attaquer, mais 
+	quelles unites il devra attaquer.
+
+	Pour choisir quel groupe ennemie attaquer, vous pouvez deplacer votre 
+	groupe avec les fleches	du clavier. Vous pouvez egalement donner comme
+	ordre a votre de groupe de se rendre par lui-meme le plus pres possible 
+	d'un groupe ennemie en choisissant ce groupe ennemie en appuyant sur I 
+	pour Infantrie, sur C pour Cavalrie, sur A pour Archer ou encore sur V pour 
+	Volant.Il est egalement possible de demander a vos archers d'attaquer a 
+	distance en appuyant du la touche D suivi du groupe voulu.
+
+	Bonne chance!
+
+
